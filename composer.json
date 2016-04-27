@@ -1,0 +1,18 @@
+{
+  "name": "seredos/database",
+  "license": "proprietary",
+  "type": "project",
+  "require": {
+    "php": ">=5.5.9"
+  },
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/MysqliToPdoBundle"
+    },
+    {
+      "type": "vcs",
+      "url": "https://github.com/MySqlQueryBuilderBundle"
+    }
+  ]
+}
