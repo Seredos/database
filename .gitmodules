@@ -1,6 +1,6 @@
 [submodule "MysqliToPdoBundle"]
 	path = MysqliToPdoBundle
-	url = git@github.com:MysqliToPdoBundle.git
+	url = git@github.com:/Seredos/MysqliToPdoBundle.git
 [submodule "MySqlQueryBuilderBundle"]
 	path = MySqlQueryBuilderBundle
-	url = git@github.com:MySqlQueryBuilderBundle.git
+	url = git@github.com:/Seredos/MySqlQueryBuilderBundle.git
