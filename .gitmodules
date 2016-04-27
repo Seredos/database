@@ -1,0 +1,3 @@
+[submodule "MysqliToPdoBundle"]
+	path = MysqliToPdoBundle
+	url = git@github.com:database/MysqliToPdoBundle/MysqliToPdoBundle.git
